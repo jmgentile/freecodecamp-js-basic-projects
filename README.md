@@ -4,8 +4,6 @@
 
 ### Curso en el que se desarrollan 15 proyectos utilizando JavaScript puro, es decir, sin ninguna librería o framework.
 
-<br>
-
 ### Lista de proyectos:
 
 <br>
