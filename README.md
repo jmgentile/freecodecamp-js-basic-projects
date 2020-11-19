@@ -2,8 +2,6 @@
 
 ### Enlace al video: [Build 15 JavaScript Proyects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=25756s "Watch the video!")
 
-<br>
-
 ### Curso en el que se desarrollan 15 proyectos utilizando JavaScript puro, es decir, sin ninguna librería o framework.
 
 <br>
