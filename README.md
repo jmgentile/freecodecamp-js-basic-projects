@@ -6,8 +6,6 @@
 
 ### Lista de proyectos:
 
-<br>
-
 ### 1. Color flipper
 
 <br>
