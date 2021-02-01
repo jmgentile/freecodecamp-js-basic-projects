@@ -2,13 +2,17 @@
 
 ### Enlace al video: [Build 15 JavaScript Proyects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=25756s "Watch the video!")
 
-#### Curso en el que se desarrollan 15 proyectos utilizando JavaScript puro, es decir, sin ninguna librería o framework.
+#### Curso en el que se desarrollan 15 proyectos utilizando puramente JavaScript.
+
+#### El curso pertenece al desarrollador web John Smilga, creador de Coding Addict. A continuación dejo un enlace a [su página web](https://www.johnsmilga.com/) y a [su canal de YouTube](https://www.youtube.com/codingaddict).
+
+#### El código JavaScript es prácticamente idéntico, aunque he modificado parte de los estilos de la mayoría de los proyectos.
+
+<br>
 
 ### Lista de proyectos:
 
 #### 1. Color flipper
-
-<br>
 
 ![](color-flipper.png)
 
@@ -16,15 +20,11 @@
 
 #### 2. Counter
 
-<br>
-
 ![](counter.png)
 
 <br>
 
 #### 3. Reviews
-
-<br>
 
 ![](reviews.png)
 
@@ -32,15 +32,11 @@
 
 #### 4. Navbar
 
-<br>
-
 ![](navbar.png)
 
 <br>
 
 #### 5. Sidebar
-
-<br>
 
 ![](sidebar.png)
 
@@ -48,15 +44,11 @@
 
 #### 6. Modal
 
-<br>
-
 ![](modal.png)
 
 <br>
 
 #### 7. Questions
-
-<br>
 
 ![](questions.png)
 
@@ -64,15 +56,11 @@
 
 #### 8. Menu
 
-<br>
-
 ![](menu.png)
 
 <br>
 
 #### 9. Video
-
-<br>
 
 ![](video.png)
 
@@ -80,15 +68,11 @@
 
 #### 10. Scroll
 
-<br>
-
 ![](scroll.png)
 
 <br>
 
 #### 11. Tabs
-
-<br>
 
 ![](tabs.png)
 
@@ -96,15 +80,11 @@
 
 #### 12. Countdown timer
 
-<br>
-
 ![](countdown-timer.png)
 
 <br>
 
 #### 13. Lorem ipsum
-
-<br>
 
 ![](lorem-ipsum.png)
 
@@ -112,14 +92,10 @@
 
 #### 14. Grocery bud
 
-<br>
-
 ![](grocery-bud.png)
 
 <br>
 
 #### 15. Slider
-
-<br>
 
 ![](slider.png)
