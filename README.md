@@ -14,88 +14,88 @@
 
 #### 1. Color flipper
 
-![](color-flipper.png)
+![](project-img/color-flipper.png)
 
 <br>
 
 #### 2. Counter
 
-![](counter.png)
+![](project-img/counter.png)
 
 <br>
 
 #### 3. Reviews
 
-![](reviews.png)
+![](project-img/reviews.png)
 
 <br>
 
 #### 4. Navbar
 
-![](navbar.png)
+![](project-img/navbar.png)
 
 <br>
 
 #### 5. Sidebar
 
-![](sidebar.png)
+![](project-img/sidebar.png)
 
 <br>
 
 #### 6. Modal
 
-![](modal.png)
+![](project-img/modal.png)
 
 <br>
 
 #### 7. Questions
 
-![](questions.png)
+![](project-img/questions.png)
 
 <br>
 
 #### 8. Menu
 
-![](menu.png)
+![](project-img/menu.png)
 
 <br>
 
 #### 9. Video
 
-![](video.png)
+![](project-img/video.png)
 
 <br>
 
 #### 10. Scroll
 
-![](scroll.png)
+![](project-img/scroll.png)
 
 <br>
 
 #### 11. Tabs
 
-![](tabs.png)
+![](project-img/tabs.png)
 
 <br>
 
 #### 12. Countdown timer
 
-![](countdown-timer.png)
+![](project-img/countdown-timer.png)
 
 <br>
 
 #### 13. Lorem ipsum
 
-![](lorem-ipsum.png)
+![](project-img/lorem-ipsum.png)
 
 <br>
 
 #### 14. Grocery bud
 
-![](grocery-bud.png)
+![](project-img/grocery-bud.png)
 
 <br>
 
 #### 15. Slider
 
-![](slider.png)
+![](project-img/slider.png)
