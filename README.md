@@ -2,7 +2,7 @@
 
 ### Enlace al video: [Build 15 JavaScript Proyects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=25756s "Watch the video!")
 
-#### Curso en el que se desarrollan 15 proyectos utilizando puramente JavaScript.
+#### Curso en el que se desarrollan 15 proyectos utilizando JavaScript.
 
 #### El curso pertenece al desarrollador web John Smilga, creador de Coding Addict. A continuación dejo un enlace a [su página web](https://www.johnsmilga.com/) y a [su canal de YouTube](https://www.youtube.com/codingaddict).
 
