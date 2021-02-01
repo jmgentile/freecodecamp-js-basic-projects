@@ -14,7 +14,7 @@
 
 #### 1. Color flipper
 
-[](project-img/color-flipper.png)
+![](project-img/color-flipper.png)
 
 <br>
 
